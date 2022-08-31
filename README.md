@@ -1,20 +1,14 @@
 ### Hi there, I'm Victor Zarour 👋
 
-I'm a front-end developer with a PhD in Comparative Literature.
+I'm a front-end developer with a PhD in Comparative Literature. I'm passionate about languages--human and programming, and I'm constantly looking to learn new technologies. I also teach Literature.
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> Passionate about languages--human and programming.
+- 🔭 I’m currently working on a course management app that brings together my passion for coding and my love of teaching.
+- 🌱 I’m currently learning Python
+- 💬 Ask me about places where I've lived!
+- 😄 Pronouns: he/him
 
-<!--
-**victorzarour/victorzarour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/victorzarour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@victor.zarour"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://gc-cuny.academia.edu/VictorZarour"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" /></a>
