@@ -21,3 +21,7 @@ I'm a front-end developer with a PhD in Comparative Literature. I'm passionate a
 <a href="https://www.linkedin.com/in/victorzarour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@victor.zarour"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://gc-cuny.academia.edu/VictorZarour"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" /></a>
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
