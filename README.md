@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Victor Zarour 👋
+
+I'm a front-end developer with a PhD in Comparative Literature.
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> Passionate about languages--human and programming.
 
 <!--
 **victorzarour/victorzarour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
