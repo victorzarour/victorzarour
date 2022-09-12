@@ -16,6 +16,16 @@ I'm a front-end developer with a PhD in Comparative Literature. I'm passionate a
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
+### Some of my recent work:
+
+**<a href="https://agora-learn.herokuapp.com/">Agora</a>** - For all professors out there who wish there were a centralized application where they could do everything from creating a syllabus to grading assignments. Look no further!
+
+**<a href="https://releasethewiggle.herokuapp.com/">NuVibration</a>** - Need to release the wiggle? Ever wished that music apps allowed you to share your favorite covers or live performances of songs. You've come to the right place?
+
+**<a href="https://indie-hub.herokuapp.com/">Indie Hub</a>** - For all cinephiles who would like to explore A24's remarkable catalog. Watch trailers, read and post reviews!
+
+**<a href="https://art-roulette.netlify.app/">Art Roulette</a>** - Need some beauty in your day? The MET Museum's legendary collection is just one click away. 
+
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/victorzarour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
