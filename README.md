@@ -18,13 +18,13 @@ I'm a front-end developer with a PhD in Comparative Literature. I'm passionate a
 
 ### Some of my recent work:
 
-**<a href="https://agora-learn.herokuapp.com/">Agora</a>** - For all professors out there who wish there were a centralized application where they could do everything from creating a syllabus to grading assignments. Look no further!
+- **<a href="https://agora-learn.herokuapp.com/">Agora</a>** - For all professors out there who wish there were a centralized application where they could do everything from creating a syllabus to grading assignments. Look no further!
 
-**<a href="https://releasethewiggle.herokuapp.com/">NuVibration</a>** - Need to release the wiggle? Ever wished that music apps allowed you to share your favorite covers or live performances of songs. You've come to the right place?
+- **<a href="https://releasethewiggle.herokuapp.com/">NuVibration</a>** - Need to release the wiggle? Ever wished that music apps allowed you to share your favorite covers or live performances of songs. You've come to the right place?
 
-**<a href="https://indie-hub.herokuapp.com/">Indie Hub</a>** - For all cinephiles who would like to explore A24's remarkable catalog. Watch trailers, read and post reviews!
+- **<a href="https://indie-hub.herokuapp.com/">Indie Hub</a>** - For all cinephiles who would like to explore A24's remarkable catalog. Watch trailers, read and post reviews!
 
-**<a href="https://art-roulette.netlify.app/">Art Roulette</a>** - Need some beauty in your day? The MET Museum's legendary collection is just one click away. 
+- **<a href="https://art-roulette.netlify.app/">Art Roulette</a>** - Need some beauty in your day? The MET Museum's legendary collection is just one click away. 
 
 ### 📫 How to reach me:
 
