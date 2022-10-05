@@ -34,9 +34,4 @@ I'm a front-end developer with a PhD in Comparative Literature. I'm passionate a
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Adding a Rich Text Editor to Your React App, Or, a Valediction Forbidding Poor Text](https://medium.com/@victor.zarour/adding-a-rich-text-editor-to-your-react-app-or-a-valediction-forbidding-poor-text-efdba5e7f34d?source=rss-a6b1eb64ed72------2)
-- [Incorporating YouTube Videos into Your React App](https://medium.com/@victor.zarour/incorporating-youtube-videos-into-your-react-app-39d3b023f3e?source=rss-a6b1eb64ed72------2)
-- [To Seed or Not to Seed: On Populating a Database and Using Faker](https://medium.com/@victor.zarour/to-seed-or-not-to-seed-on-populating-a-database-and-using-faker-4ab739c4824a?source=rss-a6b1eb64ed72------2)
-- [Client-Side Routing with React](https://medium.com/@victor.zarour/client-side-routing-with-react-a86a04f1fe33?source=rss-a6b1eb64ed72------2)
-- [Accessing My First Public API: Different Ways to Navigate a Large Collection](https://medium.com/@victor.zarour/accessing-my-first-public-api-c7334c16e58?source=rss-a6b1eb64ed72------2)
 <!-- BLOG-POST-LIST:END -->
