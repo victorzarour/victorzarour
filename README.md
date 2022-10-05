@@ -32,7 +32,7 @@ I'm a front-end developer with a PhD in Comparative Literature. I'm passionate a
 <a href="https://medium.com/@victor.zarour"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://gc-cuny.academia.edu/VictorZarour"><img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" /></a>
 
-### Blog posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Adding a Rich Text Editor to Your React App, Or, a Valediction Forbidding Poor Text](https://medium.com/@victor.zarour/adding-a-rich-text-editor-to-your-react-app-or-a-valediction-forbidding-poor-text-efdba5e7f34d?source=rss-a6b1eb64ed72------2)
 - [Incorporating YouTube Videos into Your React App](https://medium.com/@victor.zarour/incorporating-youtube-videos-into-your-react-app-39d3b023f3e?source=rss-a6b1eb64ed72------2)
