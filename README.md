@@ -1,9 +1,9 @@
-### Hi there, I'm Victor Zarour 👋
+### Hi there, I'm Victor 👋
 
 I'm a front-end developer with a PhD in Comparative Literature. I'm passionate about languages--human and programming, and I'm constantly looking to learn new technologies. I also teach Literature.
 
 - 🔭 I’m currently working on a course management app that brings together my passion for coding and my love of teaching.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python. 
 - 💬 Ask me about places where I've lived!
 - 😄 Pronouns: he/him
 
