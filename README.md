@@ -1,6 +1,6 @@
 ### Hi there! I'm Victor 👋
 
-I'm a full-stack developer with a PhD in Comparative Literature. I'm passionate about languages--human and programming, and I'm constantly looking to learn new technologies. I also teach literature.
+I'm a writer and full-stack developer with a PhD in Comparative Literature. I'm passionate about languages--human and programming, and I'm constantly looking to learn new technologies. I also teach literature.
 
 - 🔭 I’m currently working on a course management app that brings together my passion for coding and my love of teaching.
 - 🌱 I’m currently learning Python. 
